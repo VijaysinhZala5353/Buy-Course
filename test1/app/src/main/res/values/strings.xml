@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">test1</string>
+    <string name="courses">courses</string>
+    <string name="course_registration">Course Registration</string>
+    <string name="add_course">Add Course</string>
+    <string name="total_fees">Total Fees:</string>
+    <string name="total_hours">Total Hours:</string>
+    <string name="name">Name</string>
+    <string name="student_name">Student Name:</string>
+    <string name="course_fees">Course Fees:</string>
+    <string name="extra_service">Extra Service:</string>
+    <string name="select_courses">Select Courses:</string>
+    <string name="graduation_status">Graduation Status:</string>
+    <string name="hours_week">Hours/week:</string>
+    <string name="enter_your_name">Enter Your Name</string>
+    <string name="medical_insurance">Medical Insurance</string>
+    <string name="accommodation">Accommodation</string>
+    <string name="ungraduated">Ungraduated</string>
+    <string name="graduated">Graduated</string>
+</resources>
